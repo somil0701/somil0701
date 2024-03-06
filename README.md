@@ -13,9 +13,9 @@ Hey there! I'm Somil Choudhary, an aspiring Software Developer based in New Delh
 
 Here are some highlighted projects:
 
-1. [netflix-clone](github.com/somil0701/netflix-clone) - A clone website of NETFLIX which was made in order to practice HTML and CSS as a milestone project.
-2. [psCalendar](github.com/somil0701/psCalendar) - A simple CLI calendar generator. This program can generate any month-based calendar given from 1AD to any upcoming year in future.
-3. [psHangman](github.com/somil0701/psHangman) - A simple CLI text-based game which generates random-jumble words from a given set of words. 
+1. [netflix-clone](https://github.com/somil0701/netflix-clone) - A clone website of NETFLIX which was made in order to practice HTML and CSS as a milestone project.
+2. [psCalendar](https://github.com/somil0701/psCalendar) - A simple CLI calendar generator. This program can generate any month-based calendar given from 1AD to any upcoming year in future.
+3. [psHangman](https://github.com/somil0701/psHangman) - A simple CLI text-based game which generates random-jumble words from a given set of words. 
 
 ## Technologies
 
