@@ -4,7 +4,7 @@ Hey there! I'm Somil Choudhary, an aspiring Software Developer based in New Delh
 
 ## About Me
 
-- 🌱 I'm currently learning Web Development(JS) and Core Concepts of C++.
+- 🌱 I'm currently learning BackEnd Web Development and Core Concepts of C++.
 - 💼 I'm passionate about Linux Ecosystem and Open Source.
 - 📫 You can reach me at somil2005@gmail.com
 - ⚡ Fun fact: I've changed my school atleast 8-9 times 😃(as far as I remember).
@@ -21,9 +21,9 @@ Here are some highlighted projects:
 
 I work with various technologies, including but not limited to:
 
-- Programming languages: Python, C, C++, HTML, CSS, JavaScript
-- Frameworks/Libraries: BootStrap
-- Tools/Platforms: VSCode, ArchLinux, Neovim, Git, Terminal Emulators
+- Programming languages: Python, C, C++, SQL(Postgre) HTML, CSS, JavaScript. Bash
+- Frameworks/Libraries: TailwindCSS, Bootstrap, ViteJS, DaisyUI
+- Tools/Platforms: VSCode, ArchLinux, Neovim, Git, GitHub, GNU Utils, ZSH, Terminal Emulators
 
 ## Get in Touch
 
