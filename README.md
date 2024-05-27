@@ -1,41 +1,48 @@
-# Welcome to somil0701's GitHub Profile! 👋
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
+<h1 align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Somil+Choudhary!" alt="Typing SVG" /></a>
+    </h1>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+<h3 align="center">A Curious Developer from India </h3>
 
-Hey there! I'm Somil Choudhary, an aspiring Software Developer based in New Delhi. I'm currently persuing B.S. in Data Science and Applications from Indian Institute of Technology Madras and B.Tech in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.
-
-## About Me
-
-- 🌱 I'm currently learning BackEnd Web Development and Core Concepts of C++.
-- 💼 I'm passionate about Linux Ecosystem and Open Source.
-- 📫 You can reach me at somil2005@gmail.com
-- ⚡ Fun fact: I've changed my school atleast 8-9 times 😃(as far as I remember).
-
-## Projects
-
-Here are some highlighted projects:
-
-1. [netflix-clone](https://github.com/somil0701/netflix-clone) - A clone website of NETFLIX which was made in order to practice HTML and CSS as a milestone project.
-2. [psCalendar](https://github.com/somil0701/psCalendar) - A simple CLI calendar generator. This program can generate any month-based calendar given from 1AD to any upcoming year in future.
-3. [psHangman](https://github.com/somil0701/psHangman) - A simple CLI text-based game which generates random-jumble words from a given set of words. 
-
-## Technologies
-
-I work with various technologies, including but not limited to:
-
-- Programming languages: Python, C, C++, SQL(Postgre) HTML, CSS, JavaScript. Bash
-- Frameworks/Libraries: TailwindCSS, Bootstrap, ViteJS, DaisyUI
-- Tools/Platforms: VSCode, ArchLinux, Neovim, Git, GitHub, GNU Utils, ZSH, Terminal Emulators
-
-## Get in Touch
-
-- LinkedIn: [somil-choudhary](https://linkedin.com/in/somil-choudhary)
-- Instagram: [somil_0701](https://www.instagram.com/somil_0701)
-
-Feel free to reach out if you have any questions, feedback, or just want to connect!
-
-## Support
-
-If you find any of my projects helpful or interesting, consider giving them a star ⭐️. It's a great way to show your support!
-
-Thanks for visiting my profile! Have a great day! 😊
+<br>
+ <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
+
+
+
+- 🌱 I’m currently learning **React.js and DS Algo**
+- 📫 How to reach me **somil2005@gmail.com**
+- 🤔 My interests are with Web Development, Data Science etc..;
+- 💼 I’m pursuing a Bachelor's degree in Data Science from IIT Madras and Computer Science from GGSIPU;
+- 💬 Ask me about anything, I am happy to help;
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/somil-choudhary" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+
+
+
+<div align="center">
+
+</div>
+<br>
+<hr>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil0701&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+</br>
+
+<div align='center'>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=somil0701&theme=tokyonight&border_radius=5&card_height=150" alt="GitHub Streak" /></a>
+</div>
